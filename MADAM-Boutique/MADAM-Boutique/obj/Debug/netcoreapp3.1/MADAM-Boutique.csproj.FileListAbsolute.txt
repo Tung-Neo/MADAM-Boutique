@@ -274,3 +274,4 @@ C:\Users\Pc\Documents\GitHub\ASP-NhuHoangMinhDuc\MADAM-Boutique\MADAM-Boutique\M
 C:\Users\Pc\Documents\GitHub\ASP-NhuHoangMinhDuc\MADAM-Boutique\MADAM-Boutique\MADAM-Boutique\obj\Debug\netcoreapp3.1\MADAM-Boutique.dll
 C:\Users\Pc\Documents\GitHub\ASP-NhuHoangMinhDuc\MADAM-Boutique\MADAM-Boutique\MADAM-Boutique\obj\Debug\netcoreapp3.1\MADAM-Boutique.pdb
 C:\Users\Pc\Documents\GitHub\ASP-NhuHoangMinhDuc\MADAM-Boutique\MADAM-Boutique\MADAM-Boutique\obj\Debug\netcoreapp3.1\MADAM-Boutique.genruntimeconfig.cache
+C:\Users\Pc\Documents\GitHub\ASP-NhuHoangMinhDuc\MADAM-Boutique\MADAM-Boutique\MADAM-Boutique\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Footer.cshtml.g.cs

@@ -6568,3 +6568,31 @@ th.hidden-lg, td.hidden-lg {
         display: none !important
     }
 }
+
+
+
+/* Slider */
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden
+}
+
+    .carousel-inner::after {
+        display: block;
+        clear: both;
+        content: ""
+    }
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: -webkit-transform .6s ease-in-out;
+    transition: transform .6s ease-in-out;
+    transition: transform .6s ease-in-out,-webkit-transform .6s ease-in-out
+}

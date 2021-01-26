@@ -66,7 +66,12 @@ a#scrollUp i{
 /*************************
 *******Header CSS******
 **************************/
-
+#header {
+	position: absolute;
+	z-index: 10;
+	width: 100%;
+	background: white;
+}
 .header_top {
   background: none repeat scroll 0 0 #F0F0E9;
 }
@@ -361,7 +366,7 @@ ul.sub-menu {
 
 .companyinfo h2 {
   color: #B4B1AB;
-  font-family: abel;
+  /*font-family: abel;*/
   font-size: 27px;
   text-transform: uppercase;
 }
@@ -568,20 +573,13 @@ ul.sub-menu {
 **************************/
 
 
-#slider {
-  padding-bottom: 45px;
-}
-
-.carousel-indicators li {
-  background: #C4C4BE;
-}
-
-.carousel-indicators li.active {
-	  background: #FE980F;
+.box__banner--img {
+	background: no-repeat center/cover url("/images//home//bannerGirl.jpg");
+	height: 100vh;
 }
 
 .item {
-  padding-left: 100px;
+	padding-left: 100px;
 }
 
 
@@ -891,15 +889,15 @@ h2.title {
 }
 
 .product-overlay {
-  background:#FE980F;
-  top: 0;
-  display: none;
-  height: 0;
-  position: absolute;
-  transition: height 500ms ease 0s;
-  width: 100%;
-  display: block;
-  opacity:;
+	background #46433f61;
+	top: 0;
+	display: none;
+	height: 0;
+	position: absolute;
+	transition: height 500ms ease 0s;
+	width: 100%;
+	display: block;
+	opacity:;
 }
 
 .single-products:hover .product-overlay {
