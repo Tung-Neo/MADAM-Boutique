@@ -5647,23 +5647,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
+      "projectUniqueName": "D:\\Azure\\Project\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
       "projectName": "MADAM-Boutique",
-      "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
-      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\obj\\",
+      "projectPath": "D:\\Azure\\Project\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\Azure\\Project\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
